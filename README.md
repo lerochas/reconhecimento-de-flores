@@ -1,5 +1,5 @@
-##Reconhecimento De Flores
-###Projeto desenvolvido para o desafio da PS
+## Reconhecimento De Flores
+### Projeto desenvolvido para o desafio da PS
 
 O notebook possui imagens e algumas outras configurações. Para uma melhor visualização, clique no binder badge abaixo e leia por lá.
 
